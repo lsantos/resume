@@ -9,17 +9,17 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_avatar:                  "false"
+resume_name:                    "Leandro Bueno Santos"
+resume_title:                   "Software Architect"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+  "leandro.bueno@globo.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        "false"
 
 # Decide which sections to use
 # comment out to hide
@@ -29,18 +29,18 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+resume_section_associations:    false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/lsantos/resume"
+  resume_twitter_url:           "http://twitter.com/leandro_bueno"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/leandro-santos-5766a214"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  #resume_website_url:           "http://joelglovier.com"
 
 # Design settings
 resume_theme:                   default
